@@ -1,0 +1,26 @@
+Resumen apuntes relevantes primer modúlo:
+1¿que es internet y  que es la web? : el internet es una red por la que circulan datos utilizando
+                                    un determinado protocolo  y la web es una forma de transmision 
+                                    datos.
+
+Tipos de transmision de datos:
+1. SMTP/POP = para transmision y recepción de correos
+2. HTTP = (Hipertext transfer protocol) un protocolo de transmision de datos pro ejemplo las páginas web
+3. FTP = para la transmision de ficheros
+4. TELNET = para conexiones remotas a otros ordenadores
+
+2. Como nació la internet:
+    Su origen es muy ambiguo y su padre fundador no es muy claro, sin embargo esta atribución corresponde a un grupo de 
+    cientificos los cuales sentaron las herramientas para que esto fuese posible, resultado de esto se lanzo en el año 1966
+    el proyecto arpanet la primer red de transmision de información apartir del proceso imp, pero solo fue hasta cotubre del 
+    año 1969 que se establecio la primera comunicación entre dos nodos de esta red, los nodos estaban situados en la ucla
+    y suri(stanford university research institute) esta comunicación solo aguanto dos letras la l y la o, al enviar la g 
+    la red colapso y se tomo como un fracaso en los siguientes años varias universidad de la costa oeste se anexaron para finalmente
+    anexar a las que estaban en la costa este, así estados unidos logro conectar varios nodos de la red arpanet en lo largo y
+    ancho de su territorio, esta red empezo su escalado a otros paises con el primer nodo por fuera de estados unidos en 
+    el país de noruega casi al instante tambien lo hizo reino unido (Por cierto esto paso en el año 1974).
+
+    Vint cerf conjunto con Robert khan se les considera unos de los padres de internet debido a su aporte en el uso de los protocolos de conexiones
+    de la red y Tim Burn-lee otro que es considerado el padre desarrollo un lenguaje de Hipertext.
+
+
